@@ -1,4 +1,3 @@
-
 # Rock Paper Scissors CLI Game 🎮
 
 A simple command-line version of the classic **Rock-Paper-Scissors** game built with **Node.js**.  
@@ -18,7 +17,6 @@ Make sure you have **Node.js** installed.
 
 Clone the repository and run the script:
 
-```bash
 node Rock_Paper_Scissors.js rock
 
 
