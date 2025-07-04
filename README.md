@@ -1,4 +1,4 @@
-````markdown
+
 # Rock Paper Scissors CLI Game 🎮
 
 A simple command-line version of the classic **Rock-Paper-Scissors** game built with **Node.js**.  
@@ -20,7 +20,7 @@ Clone the repository and run the script:
 
 ```bash
 node Rock_Paper_Scissors.js rock
-````
+
 
 Replace `rock` with your move: `rock`, `paper`, or `scissors`.
 
